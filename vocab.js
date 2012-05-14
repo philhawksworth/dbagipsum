@@ -6,7 +6,7 @@ dbipsum.vocab = {
 		"don't slouch, darling",
 		"let's use gamification to leverage the new millenium usage drivers",
 		"damn these electric pants",
-		"Yay! Business",
+		"Yay! Business!",
 		"delicate sensibilities",
 		"angry milk will countermand my trousers"
 	],
@@ -28,7 +28,8 @@ dbipsum.vocab = {
 		"mobile device",
 		"manifest",
 		"cache",
-		"fixie"
+		"fixie",
+		"herbal infusion"
 	],
 	padding : [
 		"lorem",

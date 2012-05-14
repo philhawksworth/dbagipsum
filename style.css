@@ -10,7 +10,10 @@ html .fallback {
 	display:none;
 }
 html .controls {
-	display:block;
+	display: block;
+	border: solid 1px #ccc;
+	background-color: #f9f9f9;
+	padding:1em;
 }
 
 /* javascript-less fallback displays */
