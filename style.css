@@ -1,0 +1,38 @@
+
+body {
+	font: 16px/1.8em normal "Georgia", "Times", serif;
+	padding:0 20px;
+}
+
+
+/* javascript enrichments */
+html .fallback {
+	display:none;
+}
+html .controls {
+	display:block;
+}
+
+/* javascript-less fallback displays */
+html.no-js .fallback {
+	display:block;
+	background-color: #eee;
+}
+html.no-js .controls {
+	display:none;
+}
+
+
+h1, h2, div {
+	padding: 10px;
+}
+
+h1, h2{
+	margin: 0;
+	line-height:1.2;
+}
+
+div#ipsum {
+	line-height:1.4;
+	text-align:justify;
+}
