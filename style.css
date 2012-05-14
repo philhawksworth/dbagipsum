@@ -5,27 +5,8 @@ body {
 }
 
 
-/* javascript enrichments */
-html .fallback {
-	display:none;
-}
-html .controls {
-	display: block;
-	border: solid 1px #ccc;
-	background-color: #f9f9f9;
-	padding:1em;
-}
 
-/* javascript-less fallback displays */
-html.no-js .fallback {
-	display:block;
-	background-color: #eee;
-}
-html.no-js .controls {
-	display:none;
-}
-
-
+/* regular ol' styles */
 h1, h2, div {
 	padding: 10px;
 }
@@ -35,7 +16,60 @@ h1, h2{
 	line-height:1.2;
 }
 
-div#ipsum {
+h1 {
+	font-size:2em;
+	background-color:#333;
+	color:#fff;
+}
+h2 {
+	font-size:1.4em;
+	background-color:#eee;
+	color:#333;
+	margin-bottom:1em;
+}
+
+#ipsum {
 	line-height:1.4;
 	text-align:justify;
+}
+
+label {
+	display: block;
+}
+
+.footer {
+	background-color:#333;
+	color:#fff;
+	font-size:0.9em;
+	padding:0.5em 2em;
+}
+
+a:link, a:visited {
+	color:#a44;
+	text-decoration:none;
+}
+a:hover, a:focus {
+	color:#f44;
+}
+
+
+/* javascript enrichments */
+.fallback {
+	display:none;
+}
+.controls {
+	display: block;
+	border: solid 1px #ccc;
+	background-color: #f9f9f9;
+	padding:1em;
+}
+
+
+/* javascript-less fallback displays */
+html.no-js .fallback {
+	display:block;
+	background-color: #eee;
+}
+html.no-js .controls {
+	display:none;
 }

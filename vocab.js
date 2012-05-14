@@ -3,12 +3,15 @@ dbipsum.vocab = {
 		"is going to need to surface that",
 		"would benefit from a deep-dive",
 		"let's capture that",
-		"don't slouch, darling",
+		"don't slouch darling",
 		"let's use gamification to leverage the new millenium usage drivers",
 		"damn these electric pants",
 		"Yay! Business!",
 		"delicate sensibilities",
-		"angry milk will countermand my trousers"
+		"angry milk will countermand my trousers",
+		"is political correctness gone mad",
+		"and fiercly proud of it",
+		"Now, you hold on a minute, sugar-tits!"
 	],
 	verb : [
 		"gamify",
@@ -19,7 +22,9 @@ dbipsum.vocab = {
 		"facilate",
 		"follow",
 		"doubebaggify",
-		"cache"
+		"cache",
+		"drown",
+		"obfuscate"
 	],
 	noun : [
 		"douchebag",
@@ -29,7 +34,13 @@ dbipsum.vocab = {
 		"manifest",
 		"cache",
 		"fixie",
-		"herbal infusion"
+		"herbal infusion",
+		"cleansing milk preparation",
+		"olives",
+		"ironic facial hair",
+		"my razor sharp parting",
+		"stout and sensible shoes",
+		"enteprise architecture"
 	],
 	padding : [
 		"lorem",
@@ -38,6 +49,16 @@ dbipsum.vocab = {
 		"pantomime",
 		"thingamibob",
 		"within",
-		"without"
+		"without",
+		"preponderonce",
+		"and",
+		"or",
+		"should",
+		"never",
+		"might",
+		"was",
+		"where",
+		"is",
+		"did"
 	]
 };
