@@ -34,6 +34,9 @@ dbipsum.generate = function() {
 	document.getElementById("ipsum").innerHTML = dbipsum.getipsum(p, s);
 };
 
+ var inputs = document.getElementsByTagName("input");
+ inputs.onclick = dbipsum.generate();
+
 
 
 

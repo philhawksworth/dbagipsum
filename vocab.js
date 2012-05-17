@@ -6,12 +6,17 @@ dbipsum.vocab = {
 		"don't slouch darling",
 		"let's use gamification to leverage the new millenium usage drivers",
 		"damn these electric pants",
-		"Yay! Business!",
 		"delicate sensibilities",
 		"angry milk will countermand my trousers",
 		"is political correctness gone mad",
 		"and fiercly proud of it",
-		"Now, you hold on a minute, sugar-tits!"
+		"now, you hold on a minute, sugar-tits",
+		"bring me solutions, don't bring me problems",
+		"accelearte the ideation process",
+		"your mailbox quota has been exceeded",
+		"leverage social media",
+		"cature the market share using app stores",
+		"time is money"
 	],
 	verb : [
 		"gamify",
@@ -21,10 +26,12 @@ dbipsum.vocab = {
 		"verbificate",
 		"facilate",
 		"follow",
-		"doubebaggify",
+		"douchebaggify",
 		"cache",
 		"drown",
-		"obfuscate"
+		"obfuscate",
+		"synergize",
+		"ideate"
 	],
 	noun : [
 		"douchebag",
@@ -40,7 +47,10 @@ dbipsum.vocab = {
 		"ironic facial hair",
 		"my razor sharp parting",
 		"stout and sensible shoes",
-		"enteprise architecture"
+		"enterprise architecture",
+		"ball bag",
+		"solutioneer",
+		"focus group"
 	],
 	padding : [
 		"lorem",
@@ -59,6 +69,11 @@ dbipsum.vocab = {
 		"was",
 		"where",
 		"is",
-		"did"
+		"did",
+		"the",
+		"this",
+		"that",
+		"they",
+		"our"
 	]
 };
