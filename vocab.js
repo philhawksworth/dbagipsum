@@ -36,7 +36,8 @@ dbipsum.vocab = {
 		"synergize",
 		"ideate",
 		"leverage",
-		"nextcast"
+		"nextcast",
+		"intelligize"
 	],
 	noun : [
 		"douchebag",
