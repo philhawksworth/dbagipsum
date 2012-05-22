@@ -16,7 +16,10 @@ dbipsum.vocab = {
 		"your mailbox quota has been exceeded",
 		"leverage social media",
 		"cature the market share using app stores",
-		"time is money"
+		"time is money",
+		"that's bang out of order",
+		"is an expensive meeting",
+		"provides expert though leadership"
 	],
 	verb : [
 		"gamify",
@@ -31,7 +34,9 @@ dbipsum.vocab = {
 		"drown",
 		"obfuscate",
 		"synergize",
-		"ideate"
+		"ideate",
+		"leverage",
+		"nextcast"
 	],
 	noun : [
 		"douchebag",
@@ -74,6 +79,8 @@ dbipsum.vocab = {
 		"this",
 		"that",
 		"they",
-		"our"
+		"our",
+		"nextification",
+		"nextcasting"
 	]
 };
