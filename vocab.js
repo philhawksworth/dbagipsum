@@ -15,7 +15,7 @@ dbipsum.vocab = {
 		"accelearte the ideation process",
 		"your mailbox quota has been exceeded",
 		"leverage social media",
-		"cature the market share using app stores",
+		"capture the market share using app stores",
 		"time is money",
 		"that's bang out of order",
 		"is an expensive meeting",
