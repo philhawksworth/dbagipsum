@@ -19,7 +19,9 @@ dbipsum.vocab = {
 		"time is money",
 		"that's bang out of order",
 		"is an expensive meeting",
-		"provides expert though leadership"
+		"provides expert though leadership",
+		"I know, I know, I know, I know, I know",
+		"you are getting confused"
 	],
 	verb : [
 		"gamify",
